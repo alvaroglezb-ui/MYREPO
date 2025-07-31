@@ -6,7 +6,7 @@ import openpyxl
 
 # Configuración API de GitLab
 GITLAB_URL = "https://fuentes.juntadeandalucia.es/api/v4"
-PRIVATE_TOKEN = "glpat-dxrVeuDQGk9vAk7pXKL9"  # Reemplázalo con tu token
+PRIVATE_TOKEN = ""  # Reemplázalo con tu token
 
 # ID directo de AUTOMATISMOS
 AUTOMATISMOS_GROUP_ID = 645  # ID obtenido previamente

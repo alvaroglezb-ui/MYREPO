@@ -5,7 +5,7 @@ import pandas as pd
 
 # Configuración API de GitLab
 GITLAB_URL = "https://fuentes.juntadeandalucia.es/api/v4"
-PRIVATE_TOKEN = "glpat-Y3NgGBAQtYUhM2YzjECD"  # Reemplázalo con tu token
+PRIVATE_TOKEN = ""  # Reemplázalo con tu token
 
 # ID directo de AUTOMATISMOS
 AUTOMATISMOS_GROUP_ID = 645  # ID obtenido previamente
